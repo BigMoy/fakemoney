@@ -1,6 +1,4 @@
-> Documento en proceso
-
->
+ Documento en proceso...
 >
 >
  Este documento  está  destinado al usuario final de la aplicación **FakeMoney**
@@ -8,13 +6,13 @@
  Se entiende como usuario final a la persona o personas que manipulan directamente la  aplicacion.  
 >
 >
->                                           **FAKEMONEY**
-
+                                           **FAKEMONEY**
+>
 FakeMoney es una aplicación que  permite realizar transacciones por medio de links o códigos QR, consultar tus estados de cuenta y monitorear 
 el flujo de la moneda en relacion a tu banco.
 >
 >
-Es muy  fácil  de utilizar  a continuación  mostramos un a serie de pasos a seguir sobre el uso de la app **FakeMoney** 
+Es muy  fácil  de utilizar  a continuación  mostramos una serie de pasos a seguir sobre el uso de la app **FakeMoney** 
 
 -** Registro de usuario**
 >
@@ -29,20 +27,15 @@ En este paso tenememos tres opciones diferentes para registrarnos:
 	3- Registrate con tu cuenta de Facebook.
 		Solo con un clic y verifica tu registro  a través  de Facebook. 
 >
->
->
-
--** Iniciar sesión**.
+-Iniciar sesión.
 Solo ingresa tu nombre de usuario y  contraseña.
 (Recuerda que este depende de tu  método de registro puede ser correo o numero de telefono).	
 >
 >
--**Interfaz de Usuario** (en proceso)...
--** Como generar un codigo** QR (en proceso)...
--** Como realizar transacciones** (en proceso)...
--** Consultar estados de cuenta** (en proceso)...
+-Interfaz de Usuario (en proceso)...
+- Como generar un codigo QR (en proceso)...
+- Como realizar transacciones (en proceso)...
+- Consultar estados de cuenta (en proceso)...
 >
->
->
->
+
 
